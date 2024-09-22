@@ -114,6 +114,7 @@ nginx:mainline
 nginx:stable
 nginx:1.26-bookworm
 nginx:1.26-alpine
+openresty/openresty:1.25.3.2-jammy
 openresty/openresty:1.21.4.1-0-jammy
 openresty/openresty:jammy
 openresty/openresty:alpine
