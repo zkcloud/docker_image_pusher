@@ -120,6 +120,11 @@ openresty/openresty:jammy
 openresty/openresty:alpine
 jenkins/jenkins:lts-jdk21
 jenkins/jenkins:lts-jdk17
+langgenius/dify-api:1.0.0
+langgenius/dify-plugin-daemon:0.0.3-local
+langgenius/dify-web:1.0.0
+
+
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
